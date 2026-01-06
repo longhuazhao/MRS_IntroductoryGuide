@@ -12,6 +12,6 @@ function y = ForwardEuler(y,u,delta_t)
 % y is the UPDATED position
 
 %%% Rewrite this part of the code
-y = 0;
+y = 0*y;
 
 end
