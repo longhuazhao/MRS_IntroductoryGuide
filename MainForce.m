@@ -14,7 +14,7 @@ mu = 1;
 t=0; %Initial Time
 tFinal=0.06; % Final Time
 delta_t=0.01; %Time Step
-N=tFinal/delta_t; %Number of Time Steps
+N=1; %Number of Time Steps
     
 format long
 for i=1:N
